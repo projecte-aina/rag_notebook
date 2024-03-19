@@ -4,5 +4,3 @@ This notebook shows how to create a basic Retrieval Augmented Generation (RAG) s
 This demo should run with the Tesla instance provided free of charge in Google Colab. You can create a copy of this model and use another pdf document to interrogate, if you wish.
 For a more in-depth description of RAG, go to this blog from IBM research: ["What is retrieval-augmented generation?"](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
-
-[RAGDemo_LlamaIndex_Flor6.3_EN.ipynb](https://github.com/projecte-aina/rag_notebook/raw/main/RAGDemo_LllamaIndex_Flor6.3_EN.ipynb)
