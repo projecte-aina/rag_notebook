@@ -5,4 +5,4 @@ This demo should run with the Tesla instance provided free of charge in Google C
 For a more in-depth description of RAG, go to this blog from IBM research: ["What is retrieval-augmented generation?"](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
 
 
-#[RAGDemo_LlamaIndex_Flor6.3_EN.ipyn](https://github.com/projecte-aina/rag_notebook/blob/main/RAGDemo_LlamaIndex_Flor6.3_EN.ipynb)
+[RAGDemo_LlamaIndex_Flor6.3_EN.ipyn](https://github.com/projecte-aina/rag_notebook/blob/main/RAGDemo_LlamaIndex_Flor6.3_EN.ipynb)
